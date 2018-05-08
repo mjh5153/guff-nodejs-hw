@@ -1,0 +1,21 @@
+{
+  "name": "hwguff",
+  "version": "0.0.1",
+  "description": "app that makes annoying or playfully criticizing remarks :)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjh5153/guff-nodejs-hw.git"
+  },
+  "author": "Joel Hess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjh5153/guff-nodejs-hw/issues"
+  },
+  "homepage": "https://github.com/mjh5153/guff-nodejs-hw#readme"
+}
